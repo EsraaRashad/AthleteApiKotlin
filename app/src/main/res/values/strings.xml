@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FetchJsonInKotlin</string>
+    <string name="todo">athlete_image</string>
+</resources>
